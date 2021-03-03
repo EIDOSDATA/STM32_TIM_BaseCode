@@ -1,0 +1,9 @@
+main.c:71:5:_write	24	static
+main.c:76:5:__io_getchar	8	static
+main.c:98:6:HAL_TIM_IC_CaptureCallback	16	static
+main.c:131:5:main	16	static
+main.c:187:6:SystemClock_Config	88	static
+main.c:241:13:MX_TIM1_Init	48	static
+main.c:315:13:MX_USART2_UART_Init	8	static
+main.c:348:13:MX_GPIO_Init	48	static
+main.c:395:6:Error_Handler	4	static,ignoring_inline_asm
